@@ -3,7 +3,7 @@
 Worked on this exersice to better understand the Dimensionality Techniques like PCA (Principal Component Analysis), LDA ( Linear Discriminant Analysis) and TSNE ( T-Distributed Stochastic Neighbour Embedding).
 
 ## Article:
-  I followed the below article to recreate the work. This helped to better understand these concepts.
+  I followed the below article to recreate the work. This helped me to better understand these concepts.
  -  [Intro to Dimensionality Reduction](https://www.kaggle.com/arthurtok/interactive-intro-to-dimensionality-reduction)
  
 ## Introduction:
